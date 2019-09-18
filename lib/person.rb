@@ -1,4 +1,3 @@
-# your code goes here
 class Person
 
     attr_accessor :bank_account, :hygiene, :happiness
@@ -82,7 +81,4 @@ class Person
         else return "blah blah blah blah blah"
         end
     end
-
 end
-
-0
